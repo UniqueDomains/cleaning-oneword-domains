@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CLEANING one-word domains still available to buy.
 
-This dataset contains 4,795 .CLEANING one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,092 .CLEANING one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CLEANING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cleaning-oneword-domains&utm_content=description.top) (4,794) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.CLEANING one word dom
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/blob/main/cleaning.csv"><b>⬇️ CSV (4.8K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/blob/main/cleaning.json"><b>⬇️ JSON (4.8K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/blob/main/cleaning.csv"><b>⬇️ CSV (5.09K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/blob/main/cleaning.json"><b>⬇️ JSON (5.09K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cleaning-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.cleaning      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.cleaning      | available | 88       | 28%    | 5      |           |         |         |
 | abactinal.cleaning  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.cleaning      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.cleaning  | available | 58       | 7%     | 9      |           |         |         |
@@ -31,6 +31,7 @@ If you want to search & filters the complete database of [.CLEANING one word dom
 | abatic.cleaning     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.cleaning    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.cleaning   | available | 50       | 1%     | 8      |           |         |         |
+| abc.cleaning        | premium   | 102      | 39%    | 3      |           |         |         |
 | abdicable.cleaning  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.cleaning  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.cleaning | available | 56       | 1%     | 10     |           |         |         |
@@ -42,20 +43,19 @@ If you want to search & filters the complete database of [.CLEANING one word dom
 | aberrant.cleaning   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.cleaning    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.cleaning  | available | 54       | 3%     | 9      |           |         |         |
+| abide.cleaning      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.cleaning    | available | 106      | 5%     | 7      |           |         |         |
 | abient.cleaning     | available | 54       | 1%     | 6      |           |         |         |
-| ability.cleaning    | available | 92       | 18%    | 7      |           |         |         |
-| abit.cleaning       | available | 66       | 16%    | 5      |           |         |         |
+| ability.cleaning    | available | 92       | 16%    | 7      |           |         |         |
+| abit.cleaning       | available | 66       | 12%    | 5      |           |         |         |
 | abject.cleaning     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.cleaning     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.cleaning  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.cleaning     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.cleaning  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/blob/main/cleaning.csv"><b>⬇️ CSV (4.8K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/blob/main/cleaning.json"><b>⬇️ JSON (4.8K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/blob/main/cleaning.csv"><b>⬇️ CSV (5.09K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/cleaning-oneword-domains/blob/main/cleaning.json"><b>⬇️ JSON (5.09K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cleaning-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.CLEANING one word dom
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
