@@ -1,22 +1,22 @@
-# Available .CLEANING One-Word Domains (9,652)
+# Available .CLEANING One-Word Domains (9,653)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C652%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C652%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C653%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .cleaning one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .cleaning one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 9,652-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,653 domains** on the canonical page below.
 
-**Public extract:** 9,652 rows · **Live catalog:** 9,652 domains
+**Public extract:** 9,652 rows · **Live catalog:** 9,653 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/cleaning`  
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| free.cleaning     | available | $80.99    | $103.99       | 88             | 54     | 4      | name.com                   |
+| zero.cleaning     | available | $80.99    | $103.99       | 112            | 54     | 4      | name.com                   |
 | home.cleaning     | resell    | —         | —             | 100            | 62     | 4      | Dynadot Inc                |
 | power.cleaning    | premium   | $128.70   | $128.70       | 98             | 62     | 5      | namecheap                  |
-| zero.cleaning     | available | $80.99    | $103.99       | 112            | 53     | 4      | name.com                   |
+| free.cleaning     | available | $80.99    | $103.99       | 88             | 54     | 4      | name.com                   |
 | business.cleaning | resell    | —         | —             | 100            | 53     | 8      | Sav.com, LLC - 4           |
-| live.cleaning     | premium   | $250      | $250          | 108            | 55     | 4      | name.com                   |
+| live.cleaning     | premium   | $250      | $250          | 108            | 56     | 4      | name.com                   |
 | true.cleaning     | available | $80.99    | $103.99       | 86             | 52     | 4      | name.com                   |
 | bot.cleaning      | resell    | —         | —             | 98             | 53     | 3      | Squarespace Domains II LLC |
 | art.cleaning      | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap                  |
 | simple.cleaning   | available | $80.99    | $103.99       | 128            | 48     | 6      | name.com                   |
 | best.cleaning     | resell    | —         | —             | 82             | 53     | 4      | 1API GmbH                  |
-| one.cleaning      | premium   | $123.75   | $123.75       | 132            | 51     | 3      | name.com                   |
-| only.cleaning     | available | $80.99    | $103.99       | 110            | 47     | 4      | name.com                   |
+| one.cleaning      | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com                   |
+| trade.cleaning    | available | $94.98    | —             | 116            | 46     | 5      | namecheap                  |
 | new.cleaning      | resell    | —         | —             | 82             | 49     | 3      | Porkbun LLC                |
 | game.cleaning     | premium   | $250      | $250          | 120            | 50     | 4      | name.com                   |
-| genius.cleaning   | available | $80.99    | $103.99       | 98             | 47     | 6      | name.com                   |
+| only.cleaning     | available | $80.99    | $103.99       | 110            | 46     | 4      | name.com                   |
 | and.cleaning      | resell    | —         | —             | 108            | 48     | 3      | Sav.com, LLC               |
 | design.cleaning   | premium   | $250      | $250          | 108            | 50     | 6      | name.com                   |
-| trade.cleaning    | available | $94.98    | —             | 116            | 46     | 5      | namecheap                  |
+| law.cleaning      | available | $94.98    | —             | 82             | 46     | 3      | namecheap                  |
 | green.cleaning    | resell    | —         | —             | 108            | 45     | 5      | GoDaddy.com, LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,652-row public sample | 9,652 live domains                               |
+| 9,652-row public sample | 9,653 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
