@@ -83,7 +83,7 @@ print(df.head())
 | and.cleaning      | resell    | —         | —             | 108            | 48     | 3      | Sav.com, LLC               |
 | design.cleaning   | premium   | $250      | $250          | 108            | 50     | 6      | name.com                   |
 | law.cleaning      | available | $94.98    | —             | 82             | 46     | 3      | namecheap                  |
-| green.cleaning    | resell    | —         | —             | 108            | 45     | 5      | GoDaddy.com, LLC           |
+| drone.cleaning    | resell    | —         | —             | 70             | 45     | 5      | GoDaddy.com, LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
