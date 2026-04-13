@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cleaning one-word domains from Un
 
 **Public extract:** 9,652 rows · **Live catalog:** 9,652 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cleaning`  
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | bot.cleaning      | resell    | —         | —             | 98             | 53     | 3      | Squarespace Domains II LLC |
 | art.cleaning      | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap                  |
 | simple.cleaning   | available | $80.99    | $103.99       | 128            | 48     | 6      | name.com                   |
-| best.cleaning     | resell    | —         | —             | 82             | 53     | 4      | 1API GmbH                  |
+| best.cleaning     | resell    | —         | —             | 82             | 52     | 4      | 1API GmbH                  |
 | one.cleaning      | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com                   |
 | trade.cleaning    | available | $94.98    | —             | 116            | 46     | 5      | namecheap                  |
 | new.cleaning      | resell    | —         | —             | 82             | 49     | 3      | Porkbun LLC                |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
