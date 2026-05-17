@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cleaning one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,621 domains · **Median ask:** $83.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/cleaning`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
 | skills.cleaning       | available | $80.99    | —             | 58             | 47     | 6      | name.com      |
-| roofs.cleaning        | resell    | —         | —             | 50             | 11     | 5      | NameSilo, LLC |
+| roofs.cleaning        | resell    | —         | —             | 50             | 10     | 5      | NameSilo, LLC |
 | cars.cleaning         | premium   | $250      | —             | 66             | 47     | 4      | name.com      |
 | coins.cleaning        | available | $80.99    | —             | 56             | 41     | 5      | name.com      |
 | events.cleaning       | premium   | $123.75   | —             | 68             | 37     | 6      | name.com      |
@@ -81,9 +81,9 @@ print(df.head())
 | apartments.cleaning   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo      |
 | tokens.cleaning       | available | $75.49    | $75.49        | 51             | 36     | 6      | namesilo      |
 | payments.cleaning     | available | $80.99    | —             | 58             | 33     | 8      | name.com      |
-| popup.cleaning        | available | $80.99    | —             | 84             | 29     | 6      | name.com      |
 | SanDiego.cleaning     | available | $75.49    | $75.49        | 74             | 29     | 9      | namesilo      |
 | blocks.cleaning       | available | $80.99    | —             | 53             | 29     | 6      | name.com      |
+| popup.cleaning        | available | $80.99    | —             | 84             | 28     | 6      | name.com      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
