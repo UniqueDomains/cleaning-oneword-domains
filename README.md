@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .cleaning one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,621 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,621 domains · **Median ask:** $83.02 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,621 domains · **Median ask:** $80.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cleaning`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/cleaning`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CLEANING one-word dom
 
 ### Files
 
-- `cleaning.csv` — public CSV extract (1,000 rows)
-- `cleaning.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cleaning.csv`, public CSV extract (1,000 rows)
+- `cleaning.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| skills.cleaning       | available | $80.99    | —             | 58             | 47     | 6      | name.com      |
-| roofs.cleaning        | resell    | —         | —             | 50             | 10     | 5      | NameSilo, LLC |
-| cars.cleaning         | premium   | $250      | —             | 66             | 47     | 4      | name.com      |
-| coins.cleaning        | available | $80.99    | —             | 56             | 41     | 5      | name.com      |
-| events.cleaning       | premium   | $123.75   | —             | 68             | 37     | 6      | name.com      |
-| shortcuts.cleaning    | available | $80.99    | —             | 48             | 41     | 10     | name.com      |
-| homes.cleaning        | premium   | $250      | —             | 86             | 34     | 5      | name.com      |
-| lets.cleaning         | available | $80.99    | —             | 77             | 39     | 4      | name.com      |
-| photos.cleaning       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com      |
-| WiFi.cleaning         | available | $94.98    | —             | 83             | 37     | 5      | namecheap     |
-| has.cleaning          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com      |
-| neuroscience.cleaning | available | $80.99    | —             | 80             | 37     | 12     | name.com      |
-| coupons.cleaning      | premium   | $78.54    | $78.54        | 52             | 24     | 7      | namesilo      |
-| stories.cleaning      | available | $80.99    | —             | 58             | 36     | 7      | name.com      |
-| apartments.cleaning   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo      |
-| tokens.cleaning       | available | $75.49    | $75.49        | 51             | 36     | 6      | namesilo      |
-| payments.cleaning     | available | $80.99    | —             | 58             | 33     | 8      | name.com      |
-| SanDiego.cleaning     | available | $75.49    | $75.49        | 74             | 29     | 9      | namesilo      |
-| blocks.cleaning       | available | $80.99    | —             | 53             | 29     | 6      | name.com      |
-| popup.cleaning        | available | $80.99    | —             | 84             | 28     | 6      | name.com      |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| ada.cleaning | available | $75.49    | $75.49        | medium         | medium | 3      | namesilo     |
+| and.cleaning | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC |
+| air.cleaning | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo     |
+| Ann.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
+| bug.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| bae.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
+| cot.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| bag.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
+| dad.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| DJI.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
+| end.cleaning | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
+| icu.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
+| had.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| key.cleaning | available | $75.49    | $75.49        | high           | medium | 3      | namesilo     |
+| one.cleaning | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com     |
+| lab.cleaning | available | $75.49    | $75.49        | high           | medium | 3      | namesilo     |
+| pan.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| lan.cleaning | available | $75.49    | $75.49        | medium         | low    | 3      | namesilo     |
+| pub.cleaning | premium   | $123.75   | —             | high           | low    | 3      | name.com     |
+| mix.cleaning | available | $80.99    | $103.99       | medium         | low    | 3      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by one thing: every domain ends in .cleaning. That makes the extension itself a major part of the brand, so the strongest names are usually the ones where the word before the dot reads cleanly with the suffix. In this set, styles range from direct terms like stop.cleaning and terminal.cleaning to unusual or playful combinations like pyjamaparty.cleaning and xoxoxo.cleaning. The median ask is 83.02, which helps frame budget expectations. When comparing these domains, focus on whether the full name is easy to say, easy to remember, and commercially credible with .cleaning attached.
+This selection covers 12,621 one-word domain names registered under the .cleaning extension, with a median asking price near $80. The set spans everyday words and phrases — from short, punchy terms to longer compound names — giving cleaning, home-service, and hospitality brands a range of ownable options. Because .cleaning is an industry-specific extension rather than a mainstream TLD, brand recognition and word clarity matter more than extension familiarity when comparing names.
 
-- Prioritize words that pair naturally with .cleaning
-- Check if the full domain sounds credible out loud
-- Use the 83.02 median ask as a price reference point
-- Be cautious with awkward, long, or unclear combinations
+- 12,621 one-word .cleaning domains in this list
+- Median asking price near $80 across the set
+- Names span playful phrases to short brandable words
+- Compare spelling, length, and sector fit before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
