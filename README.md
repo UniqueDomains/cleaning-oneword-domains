@@ -1,10 +1,10 @@
-# Available .CLEANING One-Word Domains (17,923)
+# Available .CLEANING One-Word Domains (18,115)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C923%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C115%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .cleaning one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,923 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,115 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 17,923 domains · **Median ask:** $78.57 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 18,115 domains · **Median ask:** $78.54 · **High-demand under $2,500:** 2
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/tld/cleaning`
@@ -74,14 +74,14 @@ print(df.head())
 | bae.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
 | dad.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
 | bag.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
-| end.cleaning | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
+| end.cleaning | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo     |
 | bum.cleaning | available | $75.49    | $75.49        | low            | low    | 3      | namesilo     |
 | had.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
 | DJI.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
 | one.cleaning | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com     |
 | icu.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
 | pan.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| key.cleaning | available | $75.49    | $75.49        | high           | medium | 3      | namesilo     |
+| key.cleaning | available | $75.49    | $75.49        | medium         | medium | 3      | namesilo     |
 | pub.cleaning | premium   | $123.75   | —             | high           | low    | 3      | name.com     |
 | lab.cleaning | available | $75.49    | $75.49        | high           | medium | 3      | namesilo     |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 17,923 live domains                        |
+| 1,000-row public sample | 18,115 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
