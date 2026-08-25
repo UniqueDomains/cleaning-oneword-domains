@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cleaning one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,229 domains · **Median ask:** $78.41 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/cleaning`
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | cot.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
 | bae.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
 | dad.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| bag.cleaning | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
+| bag.cleaning | available | $75.49    | $75.49        | medium         | low    | 3      | namesilo     |
 | end.cleaning | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo     |
 | bum.cleaning | available | $75.49    | $75.49        | low            | low    | 3      | namesilo     |
 | had.cleaning | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
