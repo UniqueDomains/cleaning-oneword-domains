@@ -1,10 +1,10 @@
-# Available .CLEANING One-Word Domains (32,799)
+# Available .CLEANING One-Word Domains (23,174)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C799%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C174%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cleaning one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,799 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,174 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,799 domains · **Median ask:** $77.52 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 23,174 domains · **Median ask:** $78.17 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/cleaning`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| community.cleaning | premium   | $500      | $500          | high           | medium | 9      | name.com      |
-| organic.cleaning   | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo      |
-| animal.cleaning    | available | $75.49    | $75.49        | high           | low    | 6      | namesilo      |
-| desk.cleaning      | available | $75.49    | $75.49        | high           | low    | 4      | namesilo      |
-| terminal.cleaning  | available | $75.49    | $75.49        | high           | low    | 8      | namesilo      |
-| nature.cleaning    | available | $75.49    | $75.49        | high           | low    | 6      | namesilo      |
-| control.cleaning   | available | $75.49    | $75.49        | high           | low    | 7      | namesilo      |
-| ada.cleaning       | available | $75.49    | $75.49        | high           | medium | 3      | namesilo      |
-| and.cleaning       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC  |
-| bro.cleaning       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo      |
-| aid.cleaning       | available | $75.49    | $75.49        | high           | low    | 3      | namesilo      |
-| quote.cleaning     | resell    | —         | —             | high           | low    | 5      | NameSilo, LLC |
-| bug.cleaning       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo      |
-| ann.cleaning       | available | $75.49    | $75.49        | high           | low    | 3      | namesilo      |
-| cleaner.cleaning   | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC |
-| cot.cleaning       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo      |
-| ape.cleaning       | available | $75.49    | $75.49        | high           | low    | 3      | namesilo      |
-| dad.cleaning       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo      |
-| bae.cleaning       | available | $75.49    | $75.49        | high           | low    | 3      | namesilo      |
-| god.cleaning       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo      |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| ado.cleaning       | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
+| worldwide.cleaning | resell    | —         | —             | high           | medium | 9      | Sav.com, LLC |
+| ark.cleaning       | premium   | $242      | $242          | high           | medium | 3      | namesilo     |
+| apc.cleaning       | available | $79.98    | $94.98        | high           | low    | 3      | namecheap    |
+| son.cleaning       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
+| ate.cleaning       | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
+| try.cleaning       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| auk.cleaning       | available | $75.49    | $75.49        | high           | low    | 3      | namesilo     |
+| cash.cleaning      | premium   | $242      | $242          | high           | medium | 4      | namesilo     |
+| chu.cleaning       | available | $75.49    | $75.49        | medium         | low    | 3      | namesilo     |
+| live.cleaning      | premium   | $242      | $242          | high           | medium | 4      | namesilo     |
+| cub.cleaning       | available | $79.98    | $94.98        | high           | low    | 3      | namecheap    |
+| love.cleaning      | premium   | $85.80    | $85.80        | high           | medium | 4      | namecheap    |
+| dan.cleaning       | available | $75.49    | $75.49        | high           | medium | 3      | namesilo     |
+| plus.cleaning      | premium   | $242      | $242          | high           | low    | 4      | namesilo     |
+| ein.cleaning       | available | $80.99    | $103.99       | high           | low    | 3      | name.com     |
+| akron.cleaning     | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo     |
+| gip.cleaning       | available | $75.49    | $75.49        | medium         | low    | 3      | namesilo     |
+| gives.cleaning     | premium   | $85.80    | $85.80        | high           | low    | 5      | namecheap    |
+| gur.cleaning       | available | $75.49    | $75.49        | medium         | low    | 3      | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,799 live domains                        |
+| 1,000-row public sample | 23,174 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
