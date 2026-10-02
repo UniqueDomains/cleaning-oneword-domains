@@ -1,10 +1,10 @@
-# Available .CLEANING One-Word Domains (31,546)
+# Available .CLEANING One-Word Domains (33,069)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C546%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C069%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cleaning one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,546 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,069 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,546 domains · **Median ask:** $74.53 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 33,069 domains · **Median ask:** $74.06 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/cleaning`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| abu.cleaning     | available | $75.49    | $75.49        | high           | low    | 3      | namesilo  |
-| ark.cleaning     | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
-| ado.cleaning     | available | $75.49    | $75.49        | high           | low    | 3      | namesilo  |
-| try.cleaning     | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap |
-| adr.cleaning     | available | $60.23    | $60.23        | high           | low    | 3      | spaceship |
-| cash.cleaning    | premium   | $242      | $242          | high           | medium | 4      | namesilo  |
-| apc.cleaning     | available | $79.98    | $94.98        | high           | low    | 3      | namecheap |
-| live.cleaning    | premium   | $242      | $242          | high           | medium | 4      | namesilo  |
-| ate.cleaning     | available | $62.28    | $62.28        | high           | low    | 3      | dynadot   |
-| love.cleaning    | premium   | $85.80    | $85.80        | high           | medium | 4      | namecheap |
-| cbc.cleaning     | available | $75.49    | $75.49        | high           | low    | 3      | namesilo  |
-| plus.cleaning    | premium   | $260      | $260          | high           | medium | 4      | namecheap |
-| chu.cleaning     | available | $75.49    | $75.49        | medium         | low    | 3      | namesilo  |
-| akron.cleaning   | premium   | $78.54    | $78.54        | medium         | low    | 5      | namesilo  |
-| dan.cleaning     | available | $75.49    | $75.49        | high           | medium | 3      | namesilo  |
-| gives.cleaning   | premium   | $85.80    | $85.80        | medium         | low    | 5      | namecheap |
-| dix.cleaning     | available | $60.25    | $60.25        | medium         | low    | 3      | porkbun   |
-| events.cleaning  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo  |
-| dlc.cleaning     | available | $62.28    | $62.28        | high           | low    | 3      | dynadot   |
-| airport.cleaning | premium   | $260      | $260          | high           | low    | 7      | namecheap |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| abu.cleaning      | available | $75.49    | $75.49        | high           | low    | 3      | namesilo  |
+| ark.cleaning      | premium   | $242      | $242          | high           | medium | 3      | namesilo  |
+| ado.cleaning      | available | $75.49    | $75.49        | high           | low    | 3      | namesilo  |
+| try.cleaning      | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap |
+| adr.cleaning      | available | $60.23    | $60.23        | high           | low    | 3      | spaceship |
+| live.cleaning     | premium   | $242      | $242          | high           | medium | 4      | namesilo  |
+| apc.cleaning      | available | $79.98    | $94.98        | high           | low    | 3      | namecheap |
+| love.cleaning     | premium   | $85.80    | $85.80        | high           | medium | 4      | namecheap |
+| ate.cleaning      | available | $62.28    | $62.28        | high           | low    | 3      | dynadot   |
+| plus.cleaning     | premium   | $260      | $260          | high           | medium | 4      | namecheap |
+| cbc.cleaning      | available | $75.49    | $75.49        | high           | low    | 3      | namesilo  |
+| akron.cleaning    | premium   | $78.54    | $78.54        | medium         | low    | 5      | namesilo  |
+| chu.cleaning      | available | $75.49    | $75.49        | medium         | low    | 3      | namesilo  |
+| gives.cleaning    | premium   | $85.80    | $85.80        | medium         | low    | 5      | namecheap |
+| dan.cleaning      | available | $75.49    | $75.49        | high           | medium | 3      | namesilo  |
+| events.cleaning   | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo  |
+| dix.cleaning      | available | $60.25    | $60.25        | medium         | low    | 3      | porkbun   |
+| airport.cleaning  | premium   | $260      | $260          | high           | low    | 7      | namecheap |
+| dlc.cleaning      | available | $62.28    | $62.28        | high           | low    | 3      | dynadot   |
+| aberdeen.cleaning | premium   | $78.54    | $78.54        | high           | low    | 8      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,546 live domains                        |
+| 1,000-row public sample | 33,069 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLEANING One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
