@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+0d0adfc1-2b67-44cf-ae21-bbb00b9e03c9,aldous.cleaning,available,58.2,58.2,medium,low,6,cloudflare,,,03/10/2026 04:17
 75295506-20de-4da8-9960-d6e8d66cd7ac,xanax.cleaning,available,79.98,94.98,medium,low,5,namecheap,,,18/09/2026 14:09
 c36c9f6a-f8dc-4d5b-a888-50a770a8f3a4,menominee.cleaning,available,75.49,75.49,high,low,9,namesilo,,,30/09/2026 10:33
 58b52407-b5f0-41b1-94b1-0d141822a5a5,unpublished.cleaning,available,60.23,60.23,high,low,11,spaceship,,,02/10/2026 01:35
@@ -60,7 +61,9 @@ d355179c-cc01-468b-aef0-33e2ac83ace5,blas.cleaning,available,75.49,75.49,medium,
 9690848e-b952-4402-b332-04e267b083b5,dix.cleaning,available,60.25,60.25,medium,low,3,porkbun,,,29/09/2026 12:04
 fb52401a-9ac3-4fc4-8a0e-41343c74289a,lecturing.cleaning,available,58.2,58.2,high,low,9,cloudflare,,,01/10/2026 02:51
 5811a2e3-414b-458b-aeb7-385f7f47d782,apology.cleaning,available,79.98,94.98,high,low,7,namecheap,,,28/09/2026 21:41
+cba08e82-df19-4aac-ae84-f90bcfe4dec9,bak.cleaning,available,79.98,94.98,high,low,3,namecheap,,,02/10/2026 07:12
 81aa024e-00b1-43ee-946a-ae08c7a99f27,feels.cleaning,available,60.23,60.23,high,low,5,spaceship,,,01/10/2026 09:54
+893e7d3a-301d-4809-8896-cfb45f5eabb9,postgraduate.cleaning,available,60.23,60.23,high,low,12,spaceship,,,02/10/2026 17:51
 24b03cf0-db38-42bc-b043-7ce97287b28d,weird.cleaning,available,75.49,75.49,high,low,5,namesilo,,,24/09/2026 13:41
 afe39c99-4d38-45f4-a721-519ff6b383e4,osu.cleaning,available,60.23,60.23,high,low,3,spaceship,,,01/10/2026 11:42
 f68a6f4f-d1ba-4c46-8d33-d9e5d656c7be,slices.cleaning,available,79.98,94.98,medium,low,6,namecheap,,,30/09/2026 15:42
@@ -96,20 +99,21 @@ b0126219-1ce6-44dc-bd4e-72864eb4d51e,padua.cleaning,available,60.23,60.23,medium
 38d07dd0-e2e5-4bc6-ae7a-751df5bb07f3,antonio.cleaning,available,75.49,75.49,high,low,7,namesilo,,,28/09/2026 03:49
 0fc4ddc3-15a7-4889-a40f-7c8b40bae823,fractions.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,20/09/2026 01:27
 ac96d070-9698-4408-9492-fca77c6a073d,spokesman.cleaning,available,60.23,60.23,high,low,9,spaceship,,,29/09/2026 08:06
-574e9780-20e1-4089-8658-12481f508153,presentation.cleaning,available,80.99,,high,low,12,name.com,,,
+574e9780-20e1-4089-8658-12481f508153,presentation.cleaning,available,75.49,75.49,high,low,12,namesilo,,,02/10/2026 16:27
 9a20499e-a514-49a5-9a4f-54a50ca9bc6d,agdistis.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,17/09/2026 16:43
 5d949800-8286-4eb4-9993-4352e0707e20,many.cleaning,available,75.49,75.49,high,low,4,namesilo,,,25/09/2026 16:43
 8a7c01fe-ae52-4822-8288-20cd740ce0b3,larissa.cleaning,available,60.23,60.23,medium,low,7,spaceship,,,01/10/2026 23:44
-e0a740d0-9d49-4cc2-a937-0e64dd46ec19,goods.cleaning,available,80.99,,high,low,5,name.com,,,
+e0a740d0-9d49-4cc2-a937-0e64dd46ec19,goods.cleaning,available,58.2,58.2,high,low,5,cloudflare,,,02/10/2026 16:24
 33bed084-a91a-4515-87de-1a1d9e3460f1,beast.cleaning,available,79.98,94.98,high,low,5,namecheap,,,22/09/2026 04:42
 82dd1511-78b0-455a-b808-6a3937cea9be,resale.cleaning,available,60.25,60.25,high,low,6,porkbun,,,02/10/2026 02:31
 54c500e9-1f44-4756-b889-6dbf49446a38,briefs.cleaning,available,58.2,58.2,high,low,6,cloudflare,,,29/09/2026 04:18
 8dc7e915-46ce-46d3-a7af-9803966fcb5d,nineteen.cleaning,available,75.49,75.49,high,low,8,namesilo,,,21/09/2026 12:05
 a51d8061-26ba-4290-849f-aa41c91b9237,platypus.cleaning,available,79.98,94.98,high,low,8,namecheap,,,25/09/2026 00:17
+8edbe636-5d40-419b-826e-76f6b1122b85,ojibwe.cleaning,available,60.23,60.23,medium,low,6,spaceship,,,02/10/2026 08:24
 3e8e8093-e432-4b90-9728-b850a120d575,diseases.cleaning,available,75.49,75.49,low,low,8,namesilo,,,17/09/2026 16:41
 8e37f145-3dc8-470c-8eaa-b7afec1aeb08,xing.cleaning,available,58.2,58.2,high,low,4,cloudflare,,,01/10/2026 06:20
 c451b87e-7830-4249-b9da-8b64b543091f,telugu.cleaning,available,60.23,60.23,medium,low,6,spaceship,,,29/09/2026 20:30
-52488599-ff64-4a4a-b1bb-edaa29e8ac00,question.cleaning,available,79.98,94.98,high,low,8,namecheap,,,25/09/2026 10:22
+52488599-ff64-4a4a-b1bb-edaa29e8ac00,question.cleaning,available,60.23,60.23,high,low,8,spaceship,,,02/10/2026 10:29
 0b216a55-ac50-4ab2-8ece-2a8cdc377948,biotype.cleaning,available,79.98,94.98,medium,low,7,namecheap,,,23/09/2026 19:14
 f3614e17-e126-454e-89b7-908c2663c7d4,imbecile.cleaning,available,79.98,94.98,medium,low,8,namecheap,,,21/08/2026 20:22
 3036112b-c890-4c14-9aea-bcfaf9f2d4c4,harassed.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,21/08/2026 00:06
@@ -124,6 +128,7 @@ f72e3512-0c4c-4561-aaf0-d11a2242f1af,faker.cleaning,available,75.49,75.49,medium
 3f1afdae-6f02-4b4c-b476-d67258807e61,draped.cleaning,available,79.98,94.98,medium,low,6,namecheap,,,14/08/2026 18:23
 a17a1e38-4f11-41c3-bc7a-435ef6ddefa5,nagano.cleaning,available,60.23,60.23,medium,low,6,spaceship,,,30/09/2026 18:06
 bad6751b-43e7-45bc-b9a8-3f2f4c2b6b9c,wilkes.cleaning,available,60.25,60.25,medium,low,6,porkbun,,,27/09/2026 12:29
+9a64a3e6-58f7-4c6c-b0e1-a48bcb5e924e,simmonds.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,02/10/2026 10:51
 60332bcc-3a21-42dc-8638-70ca8d843f28,comforter.cleaning,available,79.98,94.98,medium,low,9,namecheap,,,18/09/2026 10:03
 b7ef481f-ba75-4536-9ca5-7b7172ea6654,cauterize.cleaning,available,75.49,75.49,high,low,9,namesilo,,,11/08/2026 14:34
 f9397a39-cea4-48c0-824b-6cc15b491677,unfold.cleaning,available,60.23,60.23,high,low,6,spaceship,,,30/09/2026 03:13
@@ -136,7 +141,7 @@ c3144a77-6cc1-4709-b219-1568d750f841,pesky.cleaning,available,75.49,75.49,medium
 52cd7998-a6ea-400e-985c-f90d8ff33338,hogan.cleaning,available,75.49,75.49,high,low,5,namesilo,,,23/09/2026 07:21
 a35d0475-4b08-446c-80b8-8d32a4c86641,dominance.cleaning,available,60.23,60.23,high,low,9,spaceship,,,28/09/2026 22:25
 6c62172f-191d-4405-b73d-127fab80d60d,crowded.cleaning,available,75.49,75.49,high,low,7,namesilo,,,24/09/2026 02:10
-1c437560-2e2f-4ac6-b23e-4bd98f1b517b,lifelong.cleaning,available,75.49,75.49,high,low,8,namesilo,,,23/08/2026 01:51
+1c437560-2e2f-4ac6-b23e-4bd98f1b517b,lifelong.cleaning,available,79.98,94.98,high,low,8,namecheap,,,02/10/2026 11:31
 bca2190b-5d0c-4a9e-8798-99c7200711c2,bitewing.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,23/09/2026 22:28
 d1da0502-8622-4c37-8e4b-80218b733969,float.cleaning,available,60.23,60.23,high,low,5,spaceship,,,28/09/2026 19:32
 4b25c3f1-564c-4170-b992-92035bfad927,cleric.cleaning,available,75.49,75.49,high,low,6,namesilo,,,14/08/2026 23:27
@@ -147,6 +152,7 @@ f2c74413-e126-41a3-a30d-823e30f2e878,promissory.cleaning,available,75.49,75.49,m
 1266abb0-7db9-4aef-a714-66b6ac2e5a11,gums.cleaning,available,62.28,62.28,medium,low,4,dynadot,,,02/10/2026 02:18
 02e8221f-2ab3-42c3-8ad6-ed18f150e198,bauhaus.cleaning,available,79.98,94.98,high,low,7,namecheap,,,22/09/2026 16:36
 f41041c9-9149-4a91-9446-380449608d11,arsehole.cleaning,available,79.98,94.98,medium,low,8,namecheap,,,20/09/2026 09:34
+87e235c0-5542-474c-a9af-3e88fe8f700c,centralia.cleaning,available,60.23,60.23,medium,low,9,spaceship,,,02/10/2026 10:19
 ce241a67-671a-4f7e-9ce1-bf31b5444f34,lazily.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,15/09/2026 01:40
 26bb075f-1d05-40dc-9068-2ef98c10f80f,justice.cleaning,available,75.49,75.49,high,medium,7,namesilo,,,19/09/2026 10:07
 83b42b1f-dd4d-4134-822c-1ac5d2463924,nephew.cleaning,available,75.49,75.49,high,low,6,namesilo,,,30/09/2026 05:35
@@ -165,6 +171,7 @@ c9e00e6e-b2b3-4fa6-87ba-3f4ffe9b3afb,lithuanian.cleaning,available,75.49,75.49,h
 ed52f685-e293-4ec6-a819-2e4037a158a6,recognizes.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,29/09/2026 11:34
 25d5b7c2-4004-4f6e-a86f-319ee0830284,asparagus.cleaning,available,75.49,75.49,high,low,9,namesilo,,,20/09/2026 14:40
 0eb8228b-99d8-41d1-b7f8-ec82a034dfbd,pradesh.cleaning,available,60.25,60.25,high,low,7,porkbun,,,28/09/2026 03:36
+e984005e-90d2-4de2-8a67-ffa7d9cca32d,speculative.cleaning,available,75.49,75.49,medium,low,11,namesilo,,,02/10/2026 07:16
 44f4c39d-2f42-48d2-b46c-7ff8fed3032b,stp.cleaning,available,60.23,60.23,high,low,3,spaceship,,,01/10/2026 21:35
 d2c72446-b999-49cc-8153-d626111f7b16,terminals.cleaning,available,60.25,60.25,medium,low,10,porkbun,,,02/10/2026 03:04
 5a418ec4-7398-468f-a130-47221086e173,clanging.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,12/08/2026 09:31
@@ -186,16 +193,19 @@ e83df946-5058-4abc-89b2-8f078d6b23e9,bilge.cleaning,available,79.98,94.98,medium
 cc4818c5-f6df-4666-95ed-755a2cc06056,often.cleaning,available,79.98,94.98,high,low,5,namecheap,,,28/09/2026 14:58
 eac6998e-5e2f-462d-b04e-3ee6311bd210,mcmaster.cleaning,available,60.23,60.23,medium,low,8,spaceship,,,29/09/2026 01:24
 af2bdb89-12d3-4a73-989e-92e0810d9e16,modest.cleaning,available,75.49,75.49,high,low,6,namesilo,,,25/09/2026 06:33
+1e69c844-be4e-4503-8025-e65b89762765,fairest.cleaning,available,60.23,60.23,medium,low,7,spaceship,,,02/10/2026 22:09
 b2864d81-0026-4cbe-81fa-e3cadaa8c469,lilting.cleaning,available,75.49,75.49,high,low,7,namesilo,,,23/08/2026 08:41
 e2fefced-b57c-48f2-9b57-08cb0c4166a0,settings.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,17/09/2026 13:18
 edd07625-09c2-434b-a9fa-3ea03e61ee6c,unfortunately.cleaning,available,60.23,60.23,medium,low,13,spaceship,,,01/10/2026 06:06
 76fda26b-882b-4c38-90b0-aea6157fc81f,rajasthan.cleaning,available,60.23,60.23,medium,low,9,spaceship,,,29/09/2026 03:42
+c86e4b0b-8267-4e1f-9c43-00e0f1a86985,sorcerer.cleaning,available,75.49,75.49,high,low,8,namesilo,,,02/10/2026 05:56
 70310577-0341-4d58-8aad-501bbc007299,resulting.cleaning,available,60.23,60.23,high,low,9,spaceship,,,29/09/2026 10:42
 4b7fdf43-b90e-420c-8132-4c212ef80ec7,artery.cleaning,available,75.49,75.49,high,low,6,namesilo,,,20/09/2026 10:30
 6bb62738-d031-4420-ac3c-e60681c008ad,outfit.cleaning,available,60.25,60.25,high,low,6,porkbun,,,27/09/2026 13:44
 9cff1688-01f5-46e5-a6a9-157247e2db85,thomas.cleaning,available,75.49,75.49,high,medium,6,namesilo,,,25/09/2026 04:57
 ce6326a8-f14f-48e8-85a7-b653c652be6a,tremble.cleaning,available,62.28,62.28,medium,low,7,dynadot,,,01/10/2026 21:40
 70f961e4-c0ad-4f51-8c9a-3f14c8095cae,masks.cleaning,available,60.23,60.23,medium,low,5,spaceship,,,28/09/2026 09:01
+b94b3c4b-19d2-4eb4-b1d3-78c4c480d20c,sender.cleaning,available,58.2,58.2,high,low,6,cloudflare,,,02/10/2026 16:44
 6d4f34ae-44a7-422d-90d6-3d4f1e80d8b3,chairman.cleaning,available,75.49,75.49,high,low,8,namesilo,,,29/09/2026 07:55
 677a8c0e-6ebb-4250-b8f9-128331a98bda,brisbane.cleaning,premium,,,high,low,8,,,,01/10/2026 01:13
 448a7dd6-f60e-4ee1-8419-0601f5e4eb6f,gallantly.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,14/09/2026 06:45
@@ -205,6 +215,7 @@ fabfcc84-17d6-4c18-b096-90e289536e84,newer.cleaning,available,75.49,75.49,high,l
 2fa7bb8a-321a-49a2-bc6a-245d6132ff5f,drs.cleaning,available,60.23,60.23,medium,low,3,spaceship,,,28/09/2026 22:08
 624754b5-1f47-4766-a924-49e7db695da4,multilane.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,03/09/2026 10:43
 f8206dda-925d-46ea-ae28-774d96ab1d90,slowpoke.cleaning,available,79.98,94.98,medium,low,8,namecheap,,,10/09/2026 20:25
+7920581c-ae5a-4bb8-840a-60640905caba,dobson.cleaning,available,58.2,58.2,high,low,6,cloudflare,,,03/10/2026 00:12
 dee8a55c-a755-4ad2-a3e7-a115c1b8644d,rumbling.cleaning,available,79.98,94.98,medium,low,8,namecheap,,,20/08/2026 20:34
 5805f893-8765-4d75-8aef-c94c49178e00,burred.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,08/08/2026 17:23
 3e33204f-70ad-4a8e-96c2-c4e5008581e5,calculable.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,11/08/2026 13:54
@@ -217,7 +228,7 @@ a366887b-d448-4272-b402-6c435b1fde07,acrid.cleaning,available,75.49,75.49,medium
 801cf553-8743-47f5-be57-c08432bc591d,simulate.cleaning,available,75.49,75.49,high,low,8,namesilo,,,10/09/2026 05:47
 c6240d3e-6e59-4508-b423-3b48513f7c3f,sauna.cleaning,available,79.98,94.98,high,low,5,namecheap,,,30/09/2026 10:38
 124a6e96-6489-4d7e-aa38-0a82a3c51879,members.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,25/09/2026 17:16
-5389ef3e-d967-40b3-8e6b-789313aaa85c,shopkeeper.cleaning,available,79.98,94.98,high,low,10,namecheap,,,28/09/2026 02:48
+5389ef3e-d967-40b3-8e6b-789313aaa85c,shopkeeper.cleaning,available,75.49,75.49,high,low,10,namesilo,,,02/10/2026 05:44
 de9aa220-11e6-4e01-9ca7-8286ee4bad98,orchard.cleaning,available,58.2,58.2,high,low,7,cloudflare,,,29/09/2026 01:46
 311bfba8-dca2-4fb1-999b-d75d89527570,battery.cleaning,available,75.49,75.49,high,low,7,namesilo,,,20/09/2026 15:54
 ec691fb6-5274-46bd-9d17-2afebd7e6b0d,sounded.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,
@@ -238,6 +249,7 @@ f790164f-bdc7-43c0-a230-f0b6ab4438b0,albinism.cleaning,available,75.49,75.49,med
 8e6733e3-c68a-45ac-9bae-189d7aad1613,gives.cleaning,premium,85.8,85.8,medium,low,5,namecheap,,,18/09/2026 13:54
 5d6e9ade-d5e8-439a-9b1e-f11c55fe5494,borders.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,28/09/2026 23:27
 e6cf1599-7d32-4fab-a2b6-09a8abd157ac,boulogne.cleaning,available,60.23,60.23,medium,low,8,spaceship,,,29/09/2026 09:58
+344804a7-775d-4c91-b940-1b7095afd818,wicker.cleaning,available,60.23,60.23,high,low,6,spaceship,,,02/10/2026 14:32
 d3bcf32b-6b12-4c60-9ea2-d68a45ead976,ethnic.cleaning,available,75.49,75.49,high,low,6,namesilo,,,24/09/2026 15:23
 8c26251f-ebf7-4e37-b369-7001084173c7,waggon.cleaning,available,79.98,94.98,high,low,6,namecheap,,,22/09/2026 19:02
 b4218690-595c-4652-8adb-4ee61da591f2,emulous.cleaning,available,79.98,94.98,medium,low,7,namecheap,,,16/08/2026 21:03
@@ -253,9 +265,11 @@ baf4b799-4106-4dff-8f57-eecd4ba3ff4c,recessions.cleaning,available,79.98,94.98,l
 0d55b7c6-1770-4fcd-84b0-f9b894d847a8,campaigning.cleaning,available,60.23,60.23,high,low,11,spaceship,,,01/10/2026 23:43
 40001dc6-541d-4976-9c22-15e455cfef9c,gunnison.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,01/10/2026 12:09
 20c4cef9-2498-4b9a-8d64-56fa6a35d260,aplysia.cleaning,available,79.98,94.98,medium,low,7,namecheap,,,19/09/2026 17:53
+35a15d62-03b1-4835-9aca-897238c5b43f,haldeman.cleaning,available,62.28,62.28,medium,low,8,dynadot,,,02/10/2026 20:18
 159a041a-24cc-47a1-b53a-cdc118ae4253,sparked.cleaning,available,75.49,75.49,high,low,7,namesilo,,,30/09/2026 04:13
 5038d08f-71d6-44d5-ba76-344a55aae2a6,belau.cleaning,available,80.99,103.99,medium,low,5,name.com,,,23/09/2026 04:30
 9de7304b-614b-4dcc-ad3c-8cfeb6d4f21e,dominating.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,07/08/2026 19:40
+795ea90e-f1ed-4cb2-a498-59d1ef7a88f1,zinn.cleaning,available,60.23,60.23,medium,low,4,spaceship,,,03/10/2026 02:52
 017b7a58-d6fc-4922-aeef-880befe692c5,pane.cleaning,available,75.49,75.49,high,low,4,namesilo,,,21/09/2026 14:30
 441e6fe5-9560-4463-8856-db99aeda549f,aldrich.cleaning,available,60.23,60.23,medium,low,7,spaceship,,,28/09/2026 04:14
 90da0c94-6550-40b6-b169-53a1c1b245a9,hahaha.cleaning,available,75.49,75.49,high,low,6,namesilo,,,01/10/2026 22:02
@@ -266,10 +280,12 @@ b9cbbe91-91ac-4de1-8d1c-15fb9505769e,misconduct.cleaning,available,75.49,75.49,m
 d1640528-30f2-4e14-b371-ed5036401ad0,threatening.cleaning,available,60.23,60.23,medium,low,11,spaceship,,,01/10/2026 18:33
 6299999d-0e68-4caa-99ff-fac47bb0e50e,tenured.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,11/09/2026 11:43
 1dfdbc44-00f4-45eb-a6b5-d7abceae489d,asbestosis.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,20/09/2026 12:56
+b32b4daa-656f-46e2-9982-f471688def56,superpower.cleaning,available,75.49,75.49,high,low,10,namesilo,,,03/10/2026 01:02
 102be9f7-d3c9-4037-9d39-7910aab7555b,pilgrimage.cleaning,available,60.23,60.23,high,low,10,spaceship,,,29/09/2026 20:00
 50d6a382-056b-4dac-93b7-5e13c2502c05,cdna.cleaning,available,79.98,94.98,medium,low,4,namecheap,,,30/09/2026 09:00
 7fdd76d2-d024-47a2-aa64-9d7133593705,tattle.cleaning,available,79.98,94.98,medium,low,6,namecheap,,,23/09/2026 23:36
 326d1324-72a0-4ab5-92ca-8b3ddd9e0bf4,foolhardy.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,18/08/2026 10:28
+97bff635-bcf6-4796-833f-bd362a9d1b5b,extinguisher.cleaning,available,60.23,60.23,high,low,12,spaceship,,,02/10/2026 18:19
 6931c63a-043d-401e-aeb1-f67475907e3f,acquired.cleaning,available,75.49,75.49,high,low,8,namesilo,,,
 a25f265b-8907-4990-b133-ead426b53e66,sprigged.cleaning,available,75.49,75.49,low,low,8,namesilo,,,10/09/2026 16:47
 f4821063-d57f-4180-a2df-59b5547f9679,rein.cleaning,available,75.49,75.49,high,low,4,namesilo,,,30/09/2026 09:27
@@ -292,9 +308,11 @@ d3016d28-839e-4f18-89d7-3e9f3485c0bf,itch.cleaning,available,79.98,94.98,high,lo
 07db8cd5-5939-48b6-9ce5-8d344cbec6b4,decline.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,28/09/2026 13:52
 9157a7d0-0b58-4c6b-8b3f-07bcb1e900c8,underside.cleaning,available,79.98,94.98,high,low,9,namecheap,,,10/08/2026 21:15
 c9e9c540-dc9c-48a0-aec4-223a7a08f468,backless.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,08/08/2026 05:48
+99cd1ef2-e615-41d8-ba6d-a1b44d67a027,gateshead.cleaning,available,79.98,94.98,medium,low,9,namecheap,,,02/10/2026 19:34
 572dacb0-6ac3-4912-bcaf-3e30dfad21d4,camouflage.cleaning,available,60.23,60.23,high,low,10,spaceship,,,29/09/2026 06:05
 d54ef206-68c7-488e-9985-0eba87112152,kalamazoo.cleaning,available,75.49,75.49,high,low,9,namesilo,,,28/09/2026 02:12
 91736e52-e7fb-4944-a660-022ac6434706,enjoyable.cleaning,available,75.49,75.49,high,low,9,namesilo,,,17/08/2026 09:17
+ceb2e832-8bcf-4bd5-a264-cc204c812641,ctrl.cleaning,available,75.49,75.49,high,medium,4,namesilo,,,02/10/2026 22:44
 bcc72972-72ce-45b6-9e0b-ae92d5a067cb,elan.cleaning,available,75.49,75.49,high,low,4,namesilo,,,20/09/2026 03:17
 39a20116-a887-4f4f-a830-776e485693d8,airport.cleaning,premium,260,260,high,low,7,namecheap,,,28/09/2026 19:10
 e3b9f54c-f164-4099-9d29-83ac8e228e42,atelier.cleaning,available,79.98,94.98,high,medium,7,namecheap,,,20/09/2026 11:53
@@ -317,12 +335,15 @@ b0c6b1b5-01b2-43b6-a550-8eff01c904cd,disrupted.cleaning,available,75.49,75.49,me
 abd7ad74-2e60-40bd-b059-3aca99da42a9,treasurer.cleaning,available,62.28,62.28,high,low,9,dynadot,,,29/09/2026 12:21
 a1e902fd-5665-4e6d-9728-118ef01e7c24,peacefully.cleaning,available,79.98,94.98,high,low,10,namecheap,,,15/09/2026 19:23
 9c8fb349-7a6f-4c6d-a600-57915c6bb593,extract.cleaning,available,75.49,75.49,high,low,7,namesilo,,,28/09/2026 14:05
+c51c1bea-eb35-4478-87f7-c4b9830186a2,zhuang.cleaning,available,75.49,75.49,high,low,6,namesilo,,,03/10/2026 02:24
 aca942fe-f572-402c-ad8b-edd85c2d24bc,bankia.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,22/09/2026 02:48
 9309f1c1-6f96-414c-ae89-c7dab5536d95,whack.cleaning,available,58.2,58.2,high,low,5,cloudflare,,,01/10/2026 22:02
+145b4c9a-1c40-48cc-835d-c5118d8c10a6,eucalyptus.cleaning,available,60.23,60.23,high,low,10,spaceship,,,03/10/2026 00:41
 1e0689a0-8997-4256-a74f-085d830bff95,arsonist.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,22/08/2026 00:55
 f558df90-6bf8-4b25-a6c1-7f60ce80c061,atropine.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,21/09/2026 01:00
 52ec9e20-40bc-4f4b-b210-231d0e5701df,tilefish.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,24/09/2026 04:04
 599fa676-e976-465a-8cfd-bb5c6576d40e,screwball.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,20/08/2026 22:30
+080d10f7-6801-46ef-9e06-99bef5df0b93,khan.cleaning,available,60.23,60.23,high,low,4,spaceship,,,02/10/2026 23:51
 38b03fa9-1fb4-47aa-898f-94c227f48308,tribute.cleaning,available,60.23,60.23,high,low,7,spaceship,,,30/09/2026 13:55
 ab8810da-5ea0-4d03-acdf-30c7daae1c24,jarvis.cleaning,available,75.49,75.49,high,medium,6,namesilo,,,27/09/2026 01:43
 05d232ee-5b58-4eac-881e-2ba0894dfe55,katherine.cleaning,available,75.49,75.49,high,low,9,namesilo,,,28/09/2026 03:49
@@ -361,9 +382,11 @@ a20b54ab-fbe5-43f7-b297-38de0a2ad7ef,fling.cleaning,available,75.49,75.49,high,l
 952616dd-2e3d-4063-8ded-bcd30a747c50,sophistication.cleaning,available,75.49,75.49,high,low,14,namesilo,,,
 4c488c34-14e9-4cd7-a927-54b540cb790c,japanese.cleaning,available,75.49,75.49,high,low,8,namesilo,,,22/08/2026 12:22
 9c5e6fe1-92aa-45d8-b06b-f0c29a51daea,flyers.cleaning,available,60.23,60.23,medium,low,6,spaceship,,,29/09/2026 16:42
+42772515-53bf-49ba-a1a4-7f1818189d4c,hortense.cleaning,available,58.2,58.2,medium,low,8,cloudflare,,,02/10/2026 19:44
 cc66b415-84be-4d16-8658-eb4574752760,respondents.cleaning,available,75.49,75.49,medium,low,11,namesilo,,,25/09/2026 21:41
 05302083-9106-4f1c-a51b-d3e44093ca49,crowell.cleaning,available,58.2,58.2,medium,low,7,cloudflare,,,29/09/2026 09:14
 a948a81e-31a9-4a48-bf93-6583f1d7f7fd,crested.cleaning,available,75.49,75.49,high,low,7,namesilo,,,13/08/2026 06:20
+04dd428a-630d-470c-8d8e-b97563d1e3b1,externalities.cleaning,available,75.49,75.49,low,low,13,namesilo,,,02/10/2026 13:56
 35819a59-173a-49b6-8b35-f4f9cae286b0,enos.cleaning,available,79.98,94.98,medium,low,4,namecheap,,,01/10/2026 08:05
 5a353dbd-f5cb-4b39-83b0-25f1f44d50b9,untamed.cleaning,available,79.98,94.98,medium,low,7,namecheap,,,12/09/2026 20:55
 a0231aab-5d3e-43eb-af50-3750ea0bbc3c,promise.cleaning,available,75.49,75.49,high,low,7,namesilo,,,30/09/2026 07:33
@@ -433,7 +456,9 @@ d9652ae1-6d47-4e60-b52e-ca36c0dc4112,pleaded.cleaning,available,58.2,58.2,medium
 e8bd3173-7664-4ee6-8079-d3aef5b8e598,mannheim.cleaning,available,60.23,60.23,high,low,8,spaceship,,,28/09/2026 10:19
 d68758e3-c361-4a10-94f4-b895ac477c40,circuits.cleaning,available,60.23,60.23,medium,low,8,spaceship,,,29/09/2026 00:07
 c0f633f3-a0ba-4966-81fb-cf72ff7581f5,spacetravel.cleaning,available,75.49,75.49,high,low,12,namesilo,,,
+9b7c0e9c-ff7c-4390-aa69-5b308ac1c4b6,brig.cleaning,available,60.23,60.23,medium,low,4,spaceship,,,02/10/2026 14:29
 ea1408ef-9874-4077-8637-0865a8a61207,dyck.cleaning,available,58.2,58.2,medium,low,4,cloudflare,,,30/09/2026 21:56
+e8be2470-1177-4ca3-9a67-d6a0c7ecd884,betraying.cleaning,available,60.23,60.23,medium,low,9,spaceship,,,02/10/2026 07:23
 70ff0ed6-c5d8-435e-b62e-19cda45641e8,contradiction.cleaning,available,75.49,75.49,medium,low,13,namesilo,,,29/09/2026 15:55
 c32876db-dff5-46c6-849c-00899a1115bd,excite.cleaning,available,62.28,62.28,high,low,6,dynadot,,,30/09/2026 02:49
 af758230-a6f7-42b6-8325-44a711ca9f98,unattended.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,12/09/2026 01:17
@@ -460,6 +485,7 @@ cec6263f-e2fe-46de-b30d-6995edf7204a,laurent.cleaning,available,75.49,75.49,medi
 b2f3f9df-2171-4a1f-8fc4-898d3aa4f6c5,beef.cleaning,available,75.49,75.49,high,low,4,namesilo,,,23/09/2026 00:18
 61225311-62e4-45d9-8b9b-217b5a6178f9,rasping.cleaning,available,79.98,94.98,medium,low,7,namecheap,,,20/08/2026 18:29
 301be003-dc5b-47f6-a1fb-bddf6b32d48e,wheatley.cleaning,available,58.2,58.2,medium,low,8,cloudflare,,,29/09/2026 01:49
+a779b78c-3f44-43a6-8398-0d765ab2c52c,toc.cleaning,available,75.49,75.49,high,low,3,namesilo,,,02/10/2026 06:49
 91ddf5a7-c14d-49b8-8846-50437e203f67,wiley.cleaning,available,75.49,75.49,high,low,5,namesilo,,,27/09/2026 08:05
 cc6647fd-14da-4ff8-86a5-1b561c799e1b,herkimer.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,01/10/2026 10:24
 ad584bd4-aa26-4941-8137-b103c7e7a27e,affair.cleaning,available,75.49,75.49,high,low,6,namesilo,,,17/09/2026 13:59
@@ -477,11 +503,13 @@ fe6260a9-94cb-4bbd-8d72-3e9de198a685,cruiser.cleaning,available,58.2,58.2,medium
 123edc0d-3dbb-4638-9abd-bcc375923153,legibly.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,14/09/2026 11:06
 1cd39efb-2380-4cb6-871c-a31325d08ff4,upwardly.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,12/09/2026 22:57
 7fd79131-a388-4aa1-90c1-29ab65ceea60,unspoken.cleaning,available,75.49,75.49,high,low,8,namesilo,,,03/09/2026 11:51
+8bb1301c-18c3-429f-9bdc-6b8b529ae96a,fetched.cleaning,available,62.28,62.28,medium,low,7,dynadot,,,02/10/2026 12:52
 8e0277d4-5c76-4fe1-9005-ca9f98cd9b85,sinuous.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,10/09/2026 08:38
 acfa331c-283b-42ba-a0b9-d58d93bde93c,billions.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,29/09/2026 06:04
 46c01b8d-107e-42ab-9526-420ef369dc80,forerunners.cleaning,available,75.49,75.49,medium,low,11,namesilo,,,01/10/2026 18:42
 21d16b34-b062-4128-ba3a-ed8be1a90d9c,dingy.cleaning,available,75.49,75.49,medium,low,5,namesilo,,,09/08/2026 09:20
-03781673-946d-4c89-a764-3db040cd2e12,gregorio.cleaning,available,75.49,75.49,high,low,8,namesilo,,,
+73a68a1d-c04f-46f8-bd39-38d260b3e67a,starling.cleaning,available,62.28,62.28,high,low,8,dynadot,,,02/10/2026 16:51
+03781673-946d-4c89-a764-3db040cd2e12,gregorio.cleaning,available,79.98,94.98,high,low,8,namecheap,,,02/10/2026 13:29
 b12c4dcb-d25b-4a22-8054-81b8e850bbdb,ante.cleaning,available,75.49,75.49,medium,low,4,namesilo,,,19/09/2026 12:39
 fda0fecb-8aab-4229-a1f3-9c27741dc2a7,apc.cleaning,available,79.98,94.98,high,low,3,namecheap,,,19/09/2026 16:23
 8462f6ba-524d-4b95-ae6e-da698f997651,peaked.cleaning,available,58.2,58.2,medium,low,6,cloudflare,,,29/09/2026 21:11
@@ -502,7 +530,7 @@ c4392d08-5a18-47e9-aefb-ec05c869feb8,swore.cleaning,available,58.2,58.2,medium,l
 dfeb0d00-021a-4f50-afc7-c10cac6d0530,cbc.cleaning,available,75.49,75.49,high,low,3,namesilo,,,28/09/2026 00:59
 cc8dd15b-dbde-4db6-a223-952a2ccdd302,liturgical.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,24/08/2026 07:40
 53c10e23-4310-4e87-a3ec-6d13e8cacb97,estimators.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,20/09/2026 23:34
-7d7d9657-820f-4870-8194-2c0378b28780,oneself.cleaning,available,75.49,75.49,high,low,7,namesilo,,,
+7d7d9657-820f-4870-8194-2c0378b28780,oneself.cleaning,available,60.23,60.23,high,low,7,spaceship,,,02/10/2026 20:15
 9e64b9d6-2074-43cb-a154-fa732ecfbd5c,busted.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,23/09/2026 12:06
 f04504de-812b-49d7-bc84-0e8a21e1056e,litigious.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,12/08/2026 18:31
 5e6538a7-a953-4b9e-9e02-b820526840e1,austenite.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,21/09/2026 04:39
@@ -512,16 +540,19 @@ f04504de-812b-49d7-bc84-0e8a21e1056e,litigious.cleaning,available,75.49,75.49,me
 c84ea14b-8118-4da3-92a5-d45392fbd193,ornament.cleaning,available,58.2,58.2,high,low,8,cloudflare,,,30/09/2026 09:20
 c872a862-153a-4f84-a356-8dffff7b579f,reminded.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,18/09/2026 03:00
 d62a02df-8630-4e4d-9eca-38e5d3066089,zoning.cleaning,available,60.23,60.23,high,low,6,spaceship,,,01/10/2026 04:08
+9ea16d7a-5df1-4caf-a5c8-f616aa79a658,mond.cleaning,available,58.2,58.2,medium,low,4,cloudflare,,,02/10/2026 23:20
 d00b71b1-5fba-4aa0-9fe5-4634d188ee06,serum.cleaning,available,75.49,75.49,high,low,5,namesilo,,,29/09/2026 06:06
 2e30a618-c510-4906-9627-f0b898cb47d7,kashmiri.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,22/08/2026 15:07
 0f968e21-7804-4d40-81b3-393dcae133ce,crescendo.cleaning,available,75.49,75.49,high,low,9,namesilo,,,13/08/2026 06:09
 ee751947-650c-4b58-aa80-709c9af0f945,books.cleaning,available,75.49,75.49,high,medium,5,namesilo,,,17/09/2026 07:04
+9584f4a2-ac13-43b9-9007-fc6d8848891b,theorist.cleaning,available,62.28,62.28,high,low,8,dynadot,,,02/10/2026 15:46
 2a912dbb-088d-492c-af1e-4320bd5db5c6,confederate.cleaning,available,75.49,75.49,high,low,11,namesilo,,,29/09/2026 08:51
 4283650a-2fc1-4d01-9192-86a141475006,vixenish.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,13/09/2026 06:24
 0ef937ae-a9d3-42cc-bc5d-9ee78c54e635,excuse.cleaning,available,79.98,94.98,high,low,6,namecheap,,,25/09/2026 22:39
 025b88ee-f7dd-40d3-8e62-b3c043ee4a7f,hypnosis.cleaning,available,60.25,60.25,high,low,8,porkbun,,,29/09/2026 19:14
 1ca7d2e8-515b-4c47-acc0-9d020d02a6f3,gear.cleaning,available,75.49,75.49,high,low,4,namesilo,,,28/09/2026 21:58
 2d586a83-9bf3-4376-b4ed-698b03df3b80,remake.cleaning,available,60.23,60.23,high,low,6,spaceship,,,30/09/2026 10:58
+f40391fa-5f6d-47de-8cf7-fef34392c89e,rauch.cleaning,available,60.23,60.23,high,low,5,spaceship,,,02/10/2026 08:32
 318f9c93-27f8-4e05-b41e-abb7a34eb4c1,cements.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,20/09/2026 09:07
 5af78665-a7fd-4163-b5fe-ba31862d20c9,plantal.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,08/09/2026 20:48
 ad2e0a51-b09c-4740-98a4-f71d2dcb9308,gina.cleaning,available,60.23,60.23,high,low,4,spaceship,,,27/09/2026 17:32
@@ -543,6 +574,7 @@ d099f324-1f3a-4c69-ac15-6f7959639186,nun.cleaning,available,62.28,62.28,high,low
 933de725-e0cf-4902-a8e3-3d6234850573,maverick.cleaning,available,75.49,75.49,high,low,8,namesilo,,,24/08/2026 17:42
 db1052c0-3de8-427d-a9fd-da342e1d54d6,ambulation.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,18/09/2026 17:29
 96d1ae0e-3063-4fda-83d6-a84431e4a1db,denny.cleaning,available,75.49,75.49,high,low,5,namesilo,,,25/09/2026 15:22
+a7403f94-fbdc-47c8-8c44-e70c0cbf7f7a,devonshire.cleaning,available,58.2,58.2,medium,low,10,cloudflare,,,03/10/2026 00:28
 29b9dc53-1aab-4c30-ac38-c2145a320a92,chaves.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,02/10/2026 00:42
 0b679d26-89a3-4d4c-8ce6-65ed21ceb1a0,simplest.cleaning,available,60.23,60.23,medium,low,8,spaceship,,,29/09/2026 22:50
 5987a7f4-df77-45d4-a9a0-05f0203abaa7,testicular.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,11/09/2026 12:06
@@ -552,6 +584,7 @@ ee5bb70b-75db-4d51-9a9c-cc06c129b9b0,donnelly.cleaning,available,75.49,75.49,med
 0c5786e9-6d8c-4e77-a69c-7df3163851a7,liz.cleaning,available,75.49,75.49,high,low,3,namesilo,,,25/09/2026 14:24
 6c86012b-af4c-4d44-a62c-2e8bb2450949,precious.cleaning,available,75.49,75.49,high,low,8,namesilo,,,12/08/2026 04:19
 1d3f63a6-e9e0-4329-8b1f-565713530048,grilled.cleaning,available,75.49,75.49,high,low,7,namesilo,,,08/08/2026 16:31
+e51b7394-3166-47dc-b281-c2bcf39bd9c6,lettering.cleaning,available,75.49,75.49,high,low,9,namesilo,,,03/10/2026 01:18
 3ad65458-fb2f-4fb3-9c78-67827aaaeecc,torrey.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,29/09/2026 09:58
 38a9f034-7a7b-4714-9da8-83878ab83047,snotty.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,09/08/2026 20:42
 d2ffed30-3ba8-4b23-9be4-72ef728d13a3,arsine.cleaning,available,79.98,94.98,medium,low,6,namecheap,,,20/09/2026 09:42
@@ -600,6 +633,7 @@ b7a18ab2-06a2-42aa-8d09-368520222a09,epicene.cleaning,available,75.49,75.49,medi
 1d9bdc50-074e-447c-a3ea-5285eb3a3e70,acned.cleaning,available,75.49,75.49,low,low,5,namesilo,,,
 f4013006-a0d7-417d-bb6d-54fa24d54a91,effectiveness.cleaning,available,75.49,75.49,medium,low,13,namesilo,,,30/09/2026 05:52
 edd4c4d3-b1bc-403e-a5c7-b2fc8107b9ab,courtesy.cleaning,available,79.98,94.98,high,low,8,namecheap,,,24/09/2026 18:48
+0d2b1fa3-a8c3-46c2-9c33-8f9c36a2bec0,eng.cleaning,available,58.2,58.2,high,low,3,cloudflare,,,02/10/2026 06:49
 e2ff4b35-bd32-4117-a474-ebd84964515c,anglia.cleaning,available,79.98,94.98,medium,low,6,namecheap,,,19/09/2026 06:45
 16850b60-81b1-43eb-8757-a1420eb5f3eb,brink.cleaning,available,75.49,75.49,high,low,5,namesilo,,,24/09/2026 10:33
 69d94bdd-ae57-4aff-a0bb-8c0b3be3debf,raphael.cleaning,available,58.2,58.2,high,low,7,cloudflare,,,29/09/2026 13:44
@@ -650,6 +684,7 @@ d8c21204-8730-401f-a3c1-c08588b6b584,euphoric.cleaning,available,75.49,75.49,hig
 a08d39bc-a18e-4ddb-aef8-d0ad0994ea41,thumping.cleaning,available,75.49,75.49,high,low,8,namesilo,,,08/08/2026 13:08
 dcf8cbe1-15e7-4f4f-bbb4-dd9ecb5ceced,haag.cleaning,available,75.49,75.49,medium,low,4,namesilo,,,01/10/2026 00:54
 bd0ccd94-59a2-4ad5-ac04-5b83f55e8786,nautical.cleaning,available,75.49,75.49,high,low,8,namesilo,,,24/08/2026 15:58
+39d098c2-433c-4118-b094-1a2c3e69045f,concerto.cleaning,available,75.49,75.49,high,low,8,namesilo,,,02/10/2026 14:44
 d9b35b02-03e5-476d-8d17-da8f410964b8,christopher.cleaning,available,75.49,75.49,high,low,11,namesilo,,,25/09/2026 13:15
 49b8a602-351d-4def-8a04-0029e1a5334f,plier.cleaning,available,60.23,60.23,medium,low,5,spaceship,,,30/09/2026 07:03
 55f64fff-68b1-4f1f-b7a5-a774f31f7300,spies.cleaning,available,58.2,58.2,medium,low,5,cloudflare,,,28/09/2026 12:49
@@ -657,7 +692,7 @@ e1498da3-99d0-4fb4-8fac-93a7b99e477c,comprehension.cleaning,available,60.25,60.2
 1a98c217-e119-4d74-9442-c33c9fe30131,medal.cleaning,available,75.49,75.49,high,low,5,namesilo,,,30/09/2026 02:12
 858facc4-9554-4808-9ca4-ff3506ac602a,cheesy.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,23/09/2026 11:13
 aebc8808-3dfe-4873-8586-44bb359a59a7,seem.cleaning,available,75.49,75.49,high,low,4,namesilo,,,30/09/2026 15:09
-ac45fefe-189f-42f0-9822-6cde5eec9f72,suite.cleaning,available,58.2,58.2,high,low,5,cloudflare,,,01/10/2026 01:44
+ac45fefe-189f-42f0-9822-6cde5eec9f72,suite.cleaning,available,58.2,58.2,high,low,5,cloudflare,,,03/10/2026 04:40
 6fc3970f-aa04-49be-bab4-ccd9e7394a04,nkvd.cleaning,available,58.2,58.2,medium,low,4,cloudflare,,,30/09/2026 04:47
 a1c6777a-5cf7-41d9-a08a-384f36935e1a,boggy.cleaning,available,75.49,75.49,medium,low,5,namesilo,,,10/08/2026 17:01
 aa7da2b7-c789-48d9-afce-19c084f95487,activating.cleaning,available,75.49,75.49,high,low,10,namesilo,,,
@@ -666,7 +701,6 @@ cec5a817-2043-41fe-b660-e5caeeb50fb7,communication.cleaning,available,60.23,60.2
 7580a2e4-dda0-476e-ada5-cb314bb2f060,acidic.cleaning,available,75.49,75.49,high,low,6,namesilo,,,
 44b40bd1-75d1-457c-9a09-fa0253b44fe0,banana.cleaning,available,75.49,75.49,high,medium,6,namesilo,,,29/09/2026 00:54
 2af170ca-a970-432b-bc01-87bbfd475c99,ark.cleaning,premium,242,242,high,medium,3,namesilo,,,20/09/2026 06:09
-23850c2a-f86b-426d-a6a1-00b6fd85db2c,netherlands.cleaning,available,,,high,high,11,,,,
 86d7f60c-e21f-45b8-9873-7a1a5da4a879,hearsay.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,21/08/2026 02:04
 30cb8977-bc29-42f5-a8cd-cb45baec16a6,rigour.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,20/09/2026 14:57
 f999a112-7ada-408e-ab33-eda4f790ddd7,rideshare.cleaning,available,75.49,75.49,high,low,9,namesilo,,,02/10/2026 03:28
@@ -678,15 +712,19 @@ c9c617e5-1564-4908-9240-4f153ff22455,mined.cleaning,available,75.49,75.49,medium
 a40a8563-3698-4e02-bb8f-08149147d84e,darwinian.cleaning,available,80.99,103.99,medium,low,9,name.com,,,13/08/2026 18:25
 a343a709-8f83-47d5-8740-5cabde424955,schell.cleaning,available,58.2,58.2,medium,low,6,cloudflare,,,02/10/2026 00:38
 cb0647a7-5224-4c00-9c73-e7615469acdb,wedded.cleaning,available,75.49,75.49,high,low,6,namesilo,,,13/09/2026 09:30
+4f03f6a6-6d6d-4843-9caa-957295f19fef,competed.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,02/10/2026 23:24
 14579e55-5b1b-416b-947d-40f425b1fa44,supplemental.cleaning,available,58.2,58.2,high,low,12,cloudflare,,,30/09/2026 19:44
 fb9cfa4b-e0d6-4514-869f-166380be3334,imagined.cleaning,available,75.49,75.49,high,low,8,namesilo,,,27/09/2026 09:43
 dcfb83ab-365e-4a6a-9354-8fbb3755f50c,dexter.cleaning,available,75.49,75.49,high,low,6,namesilo,,,14/08/2026 05:26
 205c7b94-cfe3-4b86-b49c-65d7985bc04b,outcast.cleaning,available,75.49,75.49,high,low,7,namesilo,,,18/08/2026 15:35
+b8897e68-30e9-4c97-b1a1-bd0ead5a65ab,potomac.cleaning,available,58.2,58.2,high,low,7,cloudflare,,,02/10/2026 06:07
 9bdfd5c1-8ad1-49fd-a82d-5618c1c413b3,hippie.cleaning,available,60.23,60.23,high,low,6,spaceship,,,30/09/2026 17:21
+22c5397d-3778-4441-845f-75cbc0794ff4,psl.cleaning,available,58.2,58.2,high,low,3,cloudflare,,,02/10/2026 07:57
 e24fe43b-d09c-4834-ba2d-4d61b80dcf38,dispatcher.cleaning,available,75.49,75.49,high,low,10,namesilo,,,24/09/2026 22:52
 e2a4164d-6245-4304-805f-80cd4619d585,dillard.cleaning,available,62.28,62.28,medium,low,7,dynadot,,,30/09/2026 05:29
 0e618761-2c06-4df1-b3af-0a13c3b1d20c,tilled.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,11/09/2026 15:57
 c35c56b5-423d-44d4-84d0-87c3d62dd906,unofficial.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,12/09/2026 16:10
+ebf8dd45-8e30-45f9-aae7-ed9c91f5b033,gospels.cleaning,available,60.23,60.23,high,low,7,spaceship,,,02/10/2026 04:45
 7bfafccf-d4ef-4ced-a0f8-ff176e5501f0,haversack.cleaning,available,79.98,94.98,high,low,9,namecheap,,,21/09/2026 14:43
 104fe802-6b73-47e4-8121-11ed0b39a84b,vigo.cleaning,available,75.49,75.49,medium,low,4,namesilo,,,29/09/2026 15:42
 63769e27-53bf-4b1f-bd59-ee9dde2eaadd,recollection.cleaning,available,75.49,75.49,high,low,12,namesilo,,,30/09/2026 14:16
@@ -716,6 +754,7 @@ b320a1c3-43d9-4160-adf7-1b4ddb01230a,mailing.cleaning,available,79.98,94.98,high
 80ec9af7-b261-477b-8f8c-78128b3fa527,nfc.cleaning,available,75.49,75.49,high,low,3,namesilo,,,29/09/2026 09:52
 08edb415-4f6b-4a56-8b4d-c0d7dc849b9d,roscommon.cleaning,available,79.98,94.98,medium,low,9,namecheap,,,01/10/2026 12:14
 d77220b4-e1eb-4b79-9507-3557ce251fa9,harley.cleaning,available,75.49,75.49,high,low,6,namesilo,,,25/09/2026 12:17
+cf06b955-fa93-4a60-b99c-1d01cefdc33c,hardman.cleaning,available,60.23,60.23,medium,low,7,spaceship,,,02/10/2026 21:07
 f7117b21-56f4-4762-a7af-fa201232c7de,getaways.cleaning,available,79.98,94.98,medium,low,8,namecheap,,,20/09/2026 18:37
 970fe386-ae9d-454a-b56c-73380dfd2c80,anopia.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,19/09/2026 11:39
 53a866bd-932d-4fe0-a699-b061133e2162,nepali.cleaning,available,75.49,75.49,high,low,6,namesilo,,,03/09/2026 15:37
@@ -729,6 +768,7 @@ a0a8bcad-c525-4486-a4b9-02de2c46fbaf,edified.cleaning,available,75.49,75.49,medi
 c7a7c1d3-43cf-4206-886b-402a02210d15,arenga.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,20/09/2026 03:43
 3c64add8-c5a6-4933-8b45-9be961833a59,chiefs.cleaning,available,79.98,94.98,medium,low,6,namecheap,,,18/09/2026 03:19
 3efb2d91-007d-44d2-860d-48c937f8c471,soleless.cleaning,available,75.49,75.49,low,low,8,namesilo,,,10/09/2026 13:37
+6ffd0518-ab6e-4692-aa3f-3a8db48a3aca,tnf.cleaning,available,60.23,60.23,high,low,3,spaceship,,,02/10/2026 06:34
 3b5fe20e-45aa-4811-98c7-030caedb5d0a,geologist.cleaning,available,75.49,75.49,high,low,9,namesilo,,,29/09/2026 12:39
 724d5c48-3195-4764-b310-261f155e7558,piercing.cleaning,available,75.49,75.49,high,low,8,namesilo,,,22/08/2026 01:25
 45723bdf-eade-4dee-83e1-f8f837a3e7f3,bowl.cleaning,available,75.49,75.49,high,low,4,namesilo,,,24/09/2026 07:38
@@ -744,7 +784,7 @@ ef8c0bb5-9a85-4f3a-9f6c-821d2edfc882,unexciting.cleaning,available,75.49,75.49,m
 2c1c00f6-6964-4ce9-a596-58465b50cafc,tenuous.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,11/09/2026 11:41
 e9b49c5f-e9ee-41e6-9550-7bb2c56110f4,chamber.cleaning,available,75.49,75.49,high,low,7,namesilo,,,22/09/2026 23:10
 5168da95-8ed9-4d5e-aeb6-a0963bda5bfe,schumacher.cleaning,available,79.98,94.98,high,low,10,namecheap,,,27/09/2026 19:51
-a07e9e47-e3ba-45c3-8c4c-510167abf447,gaslighter.cleaning,available,75.49,75.49,medium,low,11,namesilo,,,
+a07e9e47-e3ba-45c3-8c4c-510167abf447,gaslighter.cleaning,available,75.49,75.49,medium,low,11,namesilo,,,03/10/2026 00:39
 43851082-24aa-4c92-9ee7-2d1afc79e2fa,ongoing.cleaning,available,75.49,75.49,high,low,7,namesilo,,,04/09/2026 13:59
 fb38c559-f554-412f-830f-dc641a803a48,merger.cleaning,available,60.23,60.23,high,low,6,spaceship,,,28/09/2026 20:49
 08843ed3-948e-43ca-93ec-d971c216138e,pilots.cleaning,available,60.23,60.23,medium,low,6,spaceship,,,28/09/2026 00:23
@@ -752,9 +792,11 @@ fb38c559-f554-412f-830f-dc641a803a48,merger.cleaning,available,60.23,60.23,high,
 581c6fe5-cd68-4613-83ac-d18419888dc0,cervine.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,12/08/2026 01:00
 762cf155-55ae-4070-b2a2-8a2ea547a7f0,fewer.cleaning,available,75.49,75.49,medium,low,5,namesilo,,,24/09/2026 17:41
 d4340c7d-1851-4a36-8acf-a51484e36431,certify.cleaning,available,75.49,75.49,high,low,7,namesilo,,,24/08/2026 15:04
+d03989cb-aa2c-49a1-87bf-69ae30f653c4,clitlicker.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,02/10/2026 06:00
 5b14ceca-3310-41c6-955c-830c92a5eb79,soo.cleaning,available,62.28,62.28,medium,low,3,dynadot,,,28/09/2026 21:20
 b33dddf0-25a6-4f2a-a044-66c7dd6b4ef7,adverse.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,
 2a48db22-fd8d-4885-a88e-2464cdf36564,ost.cleaning,available,60.25,60.25,high,low,3,porkbun,,,29/09/2026 03:13
+0034faa8-664e-4bfc-bef7-c795c2b27066,eisenstein.cleaning,available,60.23,60.23,medium,low,10,spaceship,,,02/10/2026 04:41
 85f84f6b-f589-4b4f-b028-5769f8ad84c2,cumbria.cleaning,available,60.23,60.23,medium,low,7,spaceship,,,01/10/2026 01:39
 cd9c1f67-f1b2-4fee-8758-86aa1e63ef75,planted.cleaning,available,75.49,75.49,high,low,7,namesilo,,,24/09/2026 04:59
 0b93f875-823e-4a96-b70a-29a4be3053cc,undertake.cleaning,available,75.49,75.49,high,low,9,namesilo,,,24/09/2026 17:44
@@ -765,6 +807,7 @@ ee62727f-4273-44b8-b107-6c9d88e5d523,immediate.cleaning,available,75.49,75.49,hi
 649221e0-54c6-461e-95d0-30d69e273f38,sur.cleaning,available,60.23,60.23,high,low,3,spaceship,,,01/10/2026 03:57
 1f8c7703-2b61-4fff-9061-68cdcd5ef2da,spence.cleaning,available,75.49,75.49,high,low,6,namesilo,,,29/09/2026 03:33
 4c9d9072-9048-4c48-98d1-82501b85717e,guitar.cleaning,available,62.28,62.28,high,low,6,dynadot,,,29/09/2026 21:44
+7c37019b-a700-4477-a30f-4bb6233c018c,surveyor.cleaning,available,60.23,60.23,high,low,8,spaceship,,,02/10/2026 06:30
 263a344c-0ce0-4222-a328-412e2c8ac1bc,rents.cleaning,available,75.49,75.49,high,low,5,namesilo,,,30/09/2026 15:40
 8a13260c-5831-47d8-8161-6fce142708e8,rings.cleaning,available,75.49,75.49,high,low,5,namesilo,,,25/09/2026 10:24
 42777d21-f4ed-46f7-9092-a45f7076512d,unrest.cleaning,available,129.99,129.99,high,low,6,godaddy,,,30/09/2026 01:36
@@ -780,7 +823,7 @@ e951620e-1286-4386-a5ea-1cdd134eb2de,spheres.cleaning,available,75.49,75.49,medi
 839eea7a-a1f5-49a8-90bb-25aaea3684f5,liqueur.cleaning,available,75.49,75.49,high,low,7,namesilo,,,13/08/2026 01:02
 c3fb0398-7d92-4955-b1eb-09b70ea85979,paradox.cleaning,available,60.23,60.23,high,low,7,spaceship,,,29/09/2026 07:49
 3392d510-eff0-4c80-a9ff-23dee07ee35e,stables.cleaning,available,60.23,60.23,medium,low,7,spaceship,,,28/09/2026 23:40
-0669dddc-9536-4691-9ecc-2054da75c1a7,canadas.cleaning,available,80.99,,medium,low,7,name.com,,,
+0669dddc-9536-4691-9ecc-2054da75c1a7,canadas.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,03/10/2026 00:02
 2b65f845-a3fb-4a7a-8492-5501353d1f24,wink.cleaning,available,75.49,75.49,high,low,4,namesilo,,,22/09/2026 22:05
 ea3c9e8d-2bd3-4a77-b885-66e8f47d78f6,araneus.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,20/09/2026 00:05
 7c26ecf9-1791-401b-9da2-360b38c6b70d,inclined.cleaning,available,58.2,58.2,medium,low,8,cloudflare,,,28/09/2026 21:12
@@ -799,6 +842,7 @@ f9337575-998c-44cf-8dc8-8c37c7b3b018,advantages.cleaning,available,75.49,75.49,m
 2ac8cbfb-03a2-457b-9d52-fc3f94c14dbb,reversing.cleaning,available,79.98,94.98,high,low,9,namecheap,,,01/10/2026 06:12
 1c7eb98f-4a29-465b-8b52-4451d812d4cc,alfredo.cleaning,available,75.49,75.49,high,low,7,namesilo,,,28/09/2026 04:35
 bb39b0d2-d3f8-4849-aaa0-c8fbb7c59f6e,dan.cleaning,available,75.49,75.49,high,medium,3,namesilo,,,25/09/2026 11:18
+cb113dbf-6960-4a3b-ab22-d8aef54380ec,murrow.cleaning,available,58.2,58.2,medium,low,6,cloudflare,,,03/10/2026 00:35
 73efb4a8-29e9-4e57-aa94-fa512f1a6856,adorer.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,17/09/2026 09:45
 3af317a7-7a4e-401e-99f6-8a0577a16f81,consequence.cleaning,available,75.49,75.49,high,low,11,namesilo,,,28/09/2026 15:40
 6c413d79-a138-4728-a216-d7c496ba6c9f,suckers.cleaning,available,60.23,60.23,medium,low,7,spaceship,,,30/09/2026 16:06
@@ -807,9 +851,12 @@ e24d6bc5-6dad-4b62-834e-9866d4450a67,biretta.cleaning,available,79.98,94.98,medi
 1a14ae1e-1811-4b7e-89a0-957f200b21cb,squally.cleaning,available,75.49,75.49,low,low,7,namesilo,,,10/09/2026 17:18
 8935b1a3-9b9b-497a-8646-a8e4f9dbcf66,vulnerable.cleaning,available,75.49,75.49,high,low,10,namesilo,,,13/09/2026 07:24
 0609b821-aca6-4805-aee7-bbcb13fcc8e4,cummings.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,25/09/2026 04:27
+e0db67e9-5515-427a-b3e1-d54084b1baa3,kayla.cleaning,available,60.23,60.23,high,low,5,spaceship,,,02/10/2026 09:07
+9b985099-79ec-4ddb-be60-ec21c1e954d0,osteopathic.cleaning,available,62.28,62.28,high,low,11,dynadot,,,03/10/2026 03:21
 e8a90351-32c4-42aa-8413-2f18c5de1bb8,locals.cleaning,available,58.2,58.2,medium,low,6,cloudflare,,,28/09/2026 13:28
 c8499414-acf3-4a1e-8889-3856c55872f2,lichens.cleaning,available,60.23,60.23,low,low,7,spaceship,,,29/09/2026 05:48
 256d64d2-9708-463f-bb0c-4482194a61e1,unshaded.cleaning,available,79.98,94.98,medium,low,8,namecheap,,,12/09/2026 19:27
+92674f64-0df0-4289-930a-068744f672b7,tong.cleaning,available,75.49,75.49,high,low,4,namesilo,,,02/10/2026 17:24
 d78528b1-6166-4333-94bf-7eb6002b9b66,assignment.cleaning,available,75.49,75.49,high,low,10,namesilo,,,19/09/2026 21:59
 11618623-62bd-4f24-a4dc-f155a24d9ca5,ativan.cleaning,available,,,medium,low,6,,,,20/09/2026 21:30
 4e3ea6a8-f7b3-44e9-bfdb-eaceebe90e12,codified.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,12/08/2026 15:19
@@ -829,6 +876,7 @@ d1ca57b7-afc7-4df0-85c1-49170aa62061,abettor.cleaning,available,75.49,75.49,medi
 b30e18c1-9145-4447-a076-645416acf0e5,dedham.cleaning,available,60.23,60.23,medium,low,6,spaceship,,,29/09/2026 22:43
 8e95513b-7c07-427e-b379-11168b4dcbf4,fabric.cleaning,available,58.2,58.2,high,low,6,cloudflare,,,01/10/2026 21:18
 525ca4ef-8050-4f60-9b15-439f5d0f760b,joachim.cleaning,available,75.49,75.49,high,low,7,namesilo,,,27/09/2026 04:35
+dd96a192-199e-42b5-ab0d-c2b64b1be819,quo.cleaning,available,58.2,58.2,high,low,3,cloudflare,,,02/10/2026 07:17
 cb272fde-4341-4468-9d16-d95c328ea66d,flick.cleaning,available,60.25,60.25,high,low,5,porkbun,,,29/09/2026 06:54
 22558ac8-174b-47ab-a73d-12b1a3155f0e,draught.cleaning,available,60.23,60.23,high,low,7,spaceship,,,02/10/2026 04:06
 d10ede04-d6dc-4291-81ef-fb0ac8f8e12b,playoffs.cleaning,available,62.28,62.28,medium,low,8,dynadot,,,30/09/2026 15:19
@@ -870,6 +918,7 @@ e4052b4f-300e-4340-8690-e9f9e0adf287,banded.cleaning,available,75.49,75.49,mediu
 8af1cca8-08aa-4243-8e34-c925a5402e6c,ephemeron.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,17/08/2026 10:22
 9bb42423-ce6a-4e08-9cdc-2e1e01800615,woolley.cleaning,available,62.28,62.28,medium,low,7,dynadot,,,29/09/2026 20:22
 458cc826-270e-4cad-b3c1-a18fcbe32b18,hart.cleaning,available,60.23,60.23,high,medium,4,spaceship,,,01/10/2026 19:57
+815e04cc-ff9f-48e6-8635-bf31ad79de09,cogeneration.cleaning,available,58.2,58.2,medium,low,12,cloudflare,,,02/10/2026 14:10
 de08b667-e41e-4501-bbf7-2c18911766e2,blah.cleaning,available,75.49,75.49,high,low,4,namesilo,,,24/09/2026 03:41
 477d14d3-887e-48ae-a9b2-564755ec911a,reeves.cleaning,available,79.98,94.98,high,low,6,namecheap,,,29/09/2026 09:55
 b865e40c-2116-4d83-946e-db14a84475cb,navarre.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,27/09/2026 19:38
@@ -877,6 +926,7 @@ b865e40c-2116-4d83-946e-db14a84475cb,navarre.cleaning,available,75.49,75.49,medi
 3880f3ff-e027-477e-89c1-742a1a93c044,led.cleaning,available,60.25,60.25,high,low,3,porkbun,,,30/09/2026 02:42
 12f7509e-b8eb-4d18-a363-e320005aba74,toy.cleaning,available,75.49,75.49,high,low,3,namesilo,,,30/09/2026 07:01
 ad481f63-36b6-436e-94b3-161efab39aa1,live.cleaning,premium,242,242,high,medium,4,namesilo,,,22/09/2026 00:11
+c2139203-fb5e-4145-a571-8335c84c03f9,smog.cleaning,available,75.49,75.49,high,low,4,namesilo,,,02/10/2026 06:26
 1e30f8aa-8e36-4012-b7d1-299c498a965a,intense.cleaning,available,79.98,94.98,high,low,7,namecheap,,,25/09/2026 09:55
 99024886-7c8e-4642-af62-c38080811db6,authoring.cleaning,available,62.28,62.28,high,low,9,dynadot,,,30/09/2026 11:46
 e13b0c1c-def3-4a3c-ad3a-66e1ea4da98f,pentagon.cleaning,available,62.28,62.28,high,low,8,dynadot,,,28/09/2026 06:34
@@ -885,6 +935,7 @@ f09cd737-3579-419d-9c14-317a75e93043,rheumatism.cleaning,available,79.98,94.98,m
 af13e472-dc46-4a81-a3b4-a44071a9b1f3,scout.cleaning,available,80.99,103.99,high,medium,5,name.com,,,25/09/2026 09:06
 1a38e738-2aee-40d5-a39c-f82b50baf129,carbonates.cleaning,available,58.2,58.2,medium,low,10,cloudflare,,,30/09/2026 00:32
 85138bd6-be90-498c-9f97-e46b8498750e,squatty.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,24/08/2026 10:38
+ebe53871-2a9d-4cf8-8449-78ab1857b5a3,weld.cleaning,available,62.28,62.28,high,low,4,dynadot,,,02/10/2026 04:40
 dcb89701-c319-4299-b5f6-5f62f65b0431,scarlett.cleaning,available,75.49,75.49,high,low,8,namesilo,,,
 6d784107-3432-4637-8144-0971fd584085,meatless.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,24/08/2026 18:33
 546021aa-ced0-46f5-8d15-7900a682b6e2,prat.cleaning,available,75.49,75.49,medium,low,4,namesilo,,,09/08/2026 11:18
@@ -905,12 +956,16 @@ f1bd3a5a-b9fb-4ce7-a0f2-1badcfacad3b,cranes.cleaning,available,75.49,75.49,mediu
 b3e52be1-1f28-4fb6-8272-2a4324abd861,imagery.cleaning,available,62.28,62.28,high,low,7,dynadot,,,29/09/2026 19:16
 2874f262-afff-4468-933c-090e33b84132,algometer.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,18/09/2026 07:11
 e7510e58-a0f5-4d85-8488-2d04add2b369,hedge.cleaning,available,60.23,60.23,high,low,5,spaceship,,,29/09/2026 22:33
+0045720b-21dd-48e6-8b15-32c35f3e118b,boyhood.cleaning,available,75.49,75.49,high,low,7,namesilo,,,02/10/2026 14:26
 9e02e098-bfae-4437-a1ed-1e9ed6642d53,servile.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,10/09/2026 04:55
 3bbdc00f-fb5a-4881-80e2-eca67e1bf1b2,events.cleaning,premium,118.8,118.8,high,low,6,namesilo,,,
 203da044-7d49-4a6a-8388-9e8de1c0645a,unnamed.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,03/09/2026 12:56
 88366cb5-bbf5-4c6c-bb02-ec471c0ff3cc,dividing.cleaning,available,60.23,60.23,medium,low,8,spaceship,,,29/09/2026 08:50
 0fbbc8b7-b7e8-4eb4-a4c0-13612921798e,polyploid.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,08/09/2026 23:29
+f87e6ddb-79d8-46c3-abe3-e646d1261b22,stitching.cleaning,available,62.28,62.28,high,low,9,dynadot,,,02/10/2026 16:44
 65484c39-f85d-41a2-9e5c-f7ca7bcc105f,portraits.cleaning,available,58.2,58.2,medium,low,9,cloudflare,,,30/09/2026 00:16
+67f9cdc0-c701-4eaf-8e8a-4679cd130e7a,tru.cleaning,available,60.23,60.23,high,low,3,spaceship,,,02/10/2026 18:02
+95790344-4cbb-4f39-9e87-bc25183a64df,bleaching.cleaning,available,75.49,75.49,high,low,9,namesilo,,,02/10/2026 21:45
 27378440-af83-4995-b0ce-c412297d755d,schooling.cleaning,available,75.49,75.49,high,low,9,namesilo,,,01/10/2026 11:01
 5fdfceea-0de4-4e43-b098-bc3c53e3c856,bashful.cleaning,available,75.49,75.49,high,low,7,namesilo,,,08/08/2026 22:01
 9be49ed2-f739-4958-8645-4338c24dfa15,topnotch.cleaning,available,75.49,75.49,high,low,8,namesilo,,,
@@ -944,58 +999,3 @@ a06c150c-444f-405c-b8bd-20f2d4ac06ae,alanine.cleaning,available,75.49,75.49,medi
 465a59ad-7512-4289-b379-e820eb8b5194,impairment.cleaning,available,80.99,103.99,medium,low,10,name.com,,,13/08/2026 19:25
 63a5dba6-d5c3-49fb-8e8c-5a3bd2943f01,sligo.cleaning,available,79.98,94.98,medium,low,5,namecheap,,,30/09/2026 04:53
 edc72ee1-b2ef-4154-b89f-26408416c8a9,thicker.cleaning,available,60.23,60.23,medium,low,7,spaceship,,,29/09/2026 16:25
-c0c2527d-1ade-49cf-a330-8deba4c77844,detached.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,24/09/2026 07:07
-7cac9476-b9d1-4496-9beb-ac830583490a,expedite.cleaning,available,79.98,94.98,high,low,8,namecheap,,,30/09/2026 19:31
-64833db0-a75e-4494-973e-9d54037ec409,brook.cleaning,available,60.23,60.23,high,low,5,spaceship,,,29/09/2026 04:32
-a0dc01f8-3648-49a2-abf1-1d0fc28a85f7,rationally.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,15/09/2026 22:39
-7f518b4f-5545-43fb-9155-802f008203e9,crate.cleaning,available,79.98,94.98,high,low,5,namecheap,,,24/09/2026 19:07
-812d3d41-cfbc-4a32-8906-8b4e4f0b364f,oblige.cleaning,available,75.49,75.49,high,low,6,namesilo,,,03/09/2026 23:41
-f27f8379-2773-4cae-aeef-e346e9cb0792,ascendance.cleaning,available,75.49,75.49,high,low,10,namesilo,,,20/09/2026 13:03
-bed4b37a-9d7c-4b40-843b-b71fac4eea8c,quartet.cleaning,available,75.49,75.49,high,low,7,namesilo,,,
-eb8d034f-3f1a-410c-8b5a-36abb34d5ba5,traditionally.cleaning,available,60.25,60.25,medium,low,13,porkbun,,,29/09/2026 20:59
-4898b592-3aff-461c-a414-002d84f978f2,tramontana.cleaning,available,79.98,94.98,medium,low,10,namecheap,,,11/09/2026 18:50
-88e7d54a-16e7-4ac4-acde-9aae1211edd5,delphic.cleaning,available,75.49,75.49,medium,low,7,namesilo,,,14/08/2026 00:46
-4da13253-7f41-4401-a697-90d320ea88ec,relied.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,20/09/2026 05:00
-beb4cc23-06ee-4df1-8c0d-196887c11dec,maude.cleaning,available,60.23,60.23,medium,low,5,spaceship,,,28/09/2026 12:05
-ab604a8c-954c-44ac-9ccf-ed1588bb30b0,telegram.cleaning,available,75.49,75.49,high,medium,8,namesilo,,,27/09/2026 16:02
-da34cf2c-09ba-4e4e-bb1a-8055e609c773,susanne.cleaning,available,75.49,75.49,high,low,7,namesilo,,,30/09/2026 13:21
-050dee79-9650-40a3-919e-0424a1bc63cd,helicopters.cleaning,available,62.28,62.28,low,low,11,dynadot,,,28/09/2026 18:00
-2c272dd6-31dc-400d-a690-04a1e5919e4f,cruz.cleaning,available,75.49,75.49,high,low,4,namesilo,,,25/09/2026 11:52
-39e377b0-9439-4053-8a6f-3e7aa36ed032,illegally.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,15/09/2026 01:44
-ccafdf6a-03a7-411d-8270-df370e9a4e9b,enzymatic.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,17/08/2026 10:08
-5d86e306-6428-4b0e-9122-7ae4fe7a4059,aengus.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,17/09/2026 12:29
-6977df66-328f-4217-96db-4e98ad0832a7,nucleonics.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,21/09/2026 00:14
-83f57ff9-7645-4df6-9958-77cdafe732b3,doll.cleaning,available,75.49,75.49,high,low,4,namesilo,,,25/09/2026 04:37
-aea2e0a6-6290-4a03-b54f-d00af551321e,hispanic.cleaning,available,75.49,75.49,high,low,8,namesilo,,,21/08/2026 09:44
-bdf6155b-c8ef-4930-a8e1-e049891e1ce6,reasons.cleaning,available,79.98,94.98,medium,low,7,namecheap,,,25/09/2026 20:13
-efb1756e-c86d-4f98-87cc-44d6fe4caa24,unblended.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,12/09/2026 02:12
-7dd53b44-5da2-4f45-b201-b75d3119fb34,beelzebub.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,23/09/2026 01:23
-09e56698-46bb-490a-835c-67c4492b5b65,baptists.cleaning,available,75.49,75.49,high,low,8,namesilo,,,22/09/2026 03:33
-51da1ba2-56a7-434d-8a47-b804e4d1d898,abbeville.cleaning,available,58.2,58.2,medium,low,9,cloudflare,,,30/09/2026 20:53
-39017bb1-b67f-443d-b73e-6289f44da486,bewitching.cleaning,available,79.98,94.98,medium,low,10,namecheap,,,09/08/2026 18:19
-6af0a145-2676-4658-b301-e6e03e69937e,lotte.cleaning,available,75.49,75.49,high,low,5,namesilo,,,18/09/2026 11:43
-5c6c703a-4e86-42bd-b95b-a825d0ccfcb0,devotions.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,20/09/2026 02:07
-7ed4da5a-de20-4426-ac73-ef91881ce70e,surveillance.cleaning,available,75.49,75.49,high,low,12,namesilo,,,27/09/2026 08:40
-3b358a05-e19b-4ada-bbc4-6c82af43eae8,genetics.cleaning,available,58.2,58.2,high,low,8,cloudflare,,,28/09/2026 19:19
-fc62d97e-29de-48c9-b2fa-34d8682812c1,patti.cleaning,available,60.25,60.25,medium,low,5,porkbun,,,28/09/2026 12:07
-f675a396-9fc1-4f0b-a877-da454e9d1fdf,unless.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,26/09/2026 03:05
-1bf63bbc-6302-4950-839e-fd2d8626027d,differential.cleaning,available,79.98,94.98,high,low,12,namecheap,,,29/09/2026 21:05
-71662801-8aac-436b-8940-85b2527d5d4e,eternally.cleaning,available,75.49,75.49,high,low,9,namesilo,,,14/09/2026 16:17
-82705170-ccb2-4086-bf10-78ea87dc368e,arboreal.cleaning,available,75.49,75.49,high,low,8,namesilo,,,06/08/2026 13:18
-2ded48b2-f8b2-4130-a1cd-05b1b21e5363,occupant.cleaning,available,75.49,75.49,high,low,8,namesilo,,,09/09/2026 14:52
-88ec1e25-a1cf-448d-9c53-32e3fb6fa47a,arcminute.cleaning,available,75.49,75.49,medium,low,9,namesilo,,,20/09/2026 02:40
-c280aced-c938-43d2-adfe-3e2db3668897,popular.cleaning,available,75.49,75.49,high,low,7,namesilo,,,27/09/2026 04:30
-ff2214d0-a4b4-428b-b942-4589f0f24f9d,grants.cleaning,available,58.2,58.2,high,low,6,cloudflare,,,29/09/2026 09:56
-3dde2896-255e-4b9c-942b-e511fb686f7f,ohio.cleaning,available,60.23,60.23,high,low,4,spaceship,,,29/09/2026 04:57
-2c42ad86-78aa-4efa-938b-c0721940fc8c,organise.cleaning,available,75.49,75.49,high,low,8,namesilo,,,23/09/2026 23:21
-c7ca79df-cc8a-475c-b340-976741139fff,clearing.cleaning,available,75.49,75.49,high,low,8,namesilo,,,24/09/2026 15:28
-e63b8fab-0ab2-41b1-83b8-fca83077141c,ruse.cleaning,available,75.49,75.49,medium,low,4,namesilo,,,20/09/2026 11:33
-35f29708-66a4-4325-8e91-95d008f45c18,refuses.cleaning,available,60.23,60.23,low,low,7,spaceship,,,28/09/2026 09:00
-7b9b77a0-5dfe-477b-b268-31cfdacdb0e8,kurakkan.cleaning,available,75.49,75.49,medium,low,8,namesilo,,,17/09/2026 15:21
-7baf2262-be2a-4761-9650-29a589384516,ampule.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,18/09/2026 23:48
-26af1b47-61f3-4195-bed5-7c116fd08ea4,annaba.cleaning,available,75.49,75.49,medium,low,6,namesilo,,,19/09/2026 10:03
-c9b34e4f-330c-466b-a1a3-2d7c7ce0b610,clarissa.cleaning,available,62.28,62.28,medium,low,8,dynadot,,,29/09/2026 21:24
-b3919772-30f5-461b-8b23-48d691a361e5,inhibitors.cleaning,available,60.23,60.23,low,low,10,spaceship,,,02/10/2026 04:01
-a18a7943-2966-4eda-8460-1e4c51ac4f98,piece.cleaning,available,75.49,75.49,high,low,5,namesilo,,,20/09/2026 09:57
-1c4799e5-80ab-40ee-8127-4f52d39576d2,spread.cleaning,available,75.49,75.49,high,low,6,namesilo,,,28/09/2026 08:38
-d5d95dd3-b3c8-4b75-bafd-de4422010c4d,ees.cleaning,available,75.49,75.49,medium,low,3,namesilo,,,02/10/2026 02:49
